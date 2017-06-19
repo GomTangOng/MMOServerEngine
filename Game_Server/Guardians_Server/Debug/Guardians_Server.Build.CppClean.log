@@ -1,0 +1,82 @@
+c:\users\pe60\source\repos\guardians\guardians_server\debug\guardians_server.pch
+c:\users\pe60\source\repos\guardians\guardians_server\debug\vc140.pdb
+c:\users\pe60\source\repos\guardians\guardians_server\debug\vc140.idb
+c:\users\pe60\source\repos\guardians\guardians_server\debug\stdafx.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\guardians_server.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\netengine.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\clientnetengine.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\clientsession.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\workerthreads.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\sessionmanager.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\ringbuffer.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\packetmanager.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\entity.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\player.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\sendmemorypool.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\timerthread.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\heartbeatthread.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\sessions.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\sector.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\world.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\worldmanager.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\minidump.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\objectmanager.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\acceptthread.obj
+c:\users\pe60\source\repos\guardians\guardians_server\debug\monster.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\guardians_server.pch
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\vc140.pdb
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\vc140.idb
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\stdafx.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\acceptthread.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\clientsession.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\entity.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\guardians_server.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\heartbeatthread.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\minidump.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\monster.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\objectmanager.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\player.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\ringbuffer.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\sector.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\sendmemorypool.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\sessionmanager.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\state.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\statemachine.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\timerthread.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\workerthreads.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\world.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\worldmanager.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\netengine.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\packetmanager.obj
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\cell.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\vc140.pdb
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\vc140.idb
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\cell.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\minidump.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\ringbuffer.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\state.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\statemachine.obj
+c:\users\pe60\source\repos\guardians\debug\guardians_server.ilk
+c:\users\pe60\source\repos\guardians\debug\guardians_server.exe
+c:\users\pe60\source\repos\guardians\debug\guardians_server.pdb
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\debug\guardians_server.ilk
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\debug\guardians_server.exe
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\debug\guardians_server.pdb
+c:\users\pe60\source\repos\guardians\guardians_server\debug\guardians_server.res
+d:\windowsdata\문서\visual studio 2015\projects\guardians_server\guardians_server\debug\guardians_server.res
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\clientnetengine.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\netengine.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\packetmanager.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\sessions.obj
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\monster.obj.enc
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\packetmanager.obj.enc
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.res
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\cl.command.1.tlog
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\cl.read.1.tlog
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\cl.write.1.tlog
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\link.command.1.tlog
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\link.read.1.tlog
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\link.write.1.tlog
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\rc.command.1.tlog
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\rc.read.1.tlog
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\debug\guardians_server.tlog\rc.write.1.tlog

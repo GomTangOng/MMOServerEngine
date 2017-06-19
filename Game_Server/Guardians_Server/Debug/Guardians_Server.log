@@ -1,0 +1,8 @@
+﻿  ColisionDetectionTest.cpp
+  NetEngine.cpp
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\netengine.cpp(191): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\netengine.cpp(258): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\eunjaekim\desktop\game_server\game_server\guardians_server\netengine.cpp(260): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Guardians_Server.vcxproj -> C:\Users\eunjaekim\Desktop\Game_Server\Game_Server\Debug\Guardians_Server.exe
+  Guardians_Server.vcxproj -> C:\Users\eunjaekim\Desktop\Game_Server\Game_Server\Debug\Guardians_Server.pdb (Full PDB)

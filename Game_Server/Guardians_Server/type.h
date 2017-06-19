@@ -1,0 +1,71 @@
+#pragma once
+
+enum EntityType : BYTE
+{
+	PLAYER      = 1,
+	MONSTER     = 2,
+	ENTITY_END
+};
+
+enum WORLD_TYPE : BYTE
+{
+	FOREST,
+	WORLD_END
+};
+
+enum EventType : BYTE
+{
+	MOVE,
+	INCREASE_HP,	// 실험용
+	DECREASE_HP,	// 실험용
+	EVENT_END
+};
+
+enum MonsterType : BYTE
+{
+	ATTACKER    = 1,
+	DEFENDER    = 2,
+	SUPPORTER   = 4,
+	MONSTER_TYPE_END
+};
+
+enum PlayerState : BYTE
+{
+	PLAYER_IDLE,
+	PLAYER_WALK,
+	PLAYER_SHORT_ATTACK,
+	PLAYER_LONG_ATTACK,
+	PLAYER_HITTED,
+	PLAYER_DEAD,
+	PLAYER_STATE_END
+};
+
+enum MonsterState : BYTE
+{
+	MONSTER_IDLE,
+	MONSTER_WALK,
+	MONSTER_ATTACK,
+	MONSTER_HITTED,	// 맞는 상태
+	MONSTER_DEAD,
+	MONSTER_STATE_END
+};
+
+enum class CellType : BYTE
+{
+	NONE,
+	BLOCK,
+	CELLTYPE_END
+};
+
+enum class OPERATION_TYPE : BYTE
+{
+	OP_RECV,
+	OP_ZERO_RECV,
+	OP_ONCE_SEND,
+	OP_SEND,
+	OP_NPC_MOVE,
+	OP_END
+};
+
+#define PLAYER_WIDTH  20
+#define PLAYER_HEIGHT 20

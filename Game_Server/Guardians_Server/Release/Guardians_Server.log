@@ -1,0 +1,15 @@
+﻿  PacketManager.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\device_functions.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\device_functions.h(774): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\device_functions.h(1618): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_double_functions.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_20_intrinsics.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_20_intrinsics.h(943): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+PacketManager.cpp(412): warning C4101: 'obj': unreferenced local variable
+  Generating code
+  1 of 3392 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Guardians_Server.vcxproj -> C:\Users\eunjaekim\Desktop\Game_Server\Game_Server\Release\Guardians_Server.exe
+  Guardians_Server.vcxproj -> C:\Users\eunjaekim\Desktop\Game_Server\Game_Server\Release\Guardians_Server.pdb (Full PDB)

@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Engine">
+      <UniqueIdentifier>{a82c78a2-456f-4b0a-a9fa-4a71ed78a0b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Common">
+      <UniqueIdentifier>{4ae850c2-9487-49eb-852e-e16afecdef03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility">
+      <UniqueIdentifier>{1a0b281d-caa1-4202-962f-f77747abf9ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Session">
+      <UniqueIdentifier>{48f09e35-1f45-4b52-b9eb-01a43ccfcab5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Thread">
+      <UniqueIdentifier>{8bdc5588-5ac4-4f52-9720-170910a3e508}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Objects">
+      <UniqueIdentifier>{1134173d-f235-433a-ac2b-c3c991e4ea39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager">
+      <UniqueIdentifier>{d7bbe3d0-926a-4d7f-8a29-24ecde38ff04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Map">
+      <UniqueIdentifier>{2c407fd4-35cf-484d-ad22-12944245a29e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일\Engine">
+      <UniqueIdentifier>{c0cf8df5-46d0-4c82-8450-b88cb51bc805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Utility">
+      <UniqueIdentifier>{965f74e7-612f-4edb-93e2-30dee639e9a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Utility\Memory">
+      <UniqueIdentifier>{e577c658-8223-410a-a5bb-02932f0233d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Utility\Lock">
+      <UniqueIdentifier>{00e98576-e32d-4b1b-8a52-4ff0c816d53b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Session">
+      <UniqueIdentifier>{73f930ab-ccaf-4522-87ba-c33044b0f3b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Thread">
+      <UniqueIdentifier>{637bda17-63d1-4b29-baf0-45a205207fe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Objects">
+      <UniqueIdentifier>{5633ca0d-8d1f-44ae-b866-e6802cb07166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Manager">
+      <UniqueIdentifier>{fe21e1e1-0ade-4876-adac-43f08416ab5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Map">
+      <UniqueIdentifier>{b06db92b-602a-4065-8ab5-133f7c62ec49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Utility\MiniDump">
+      <UniqueIdentifier>{edc50ba8-7be0-4f7c-a7e2-ba304094dd19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\Memory">
+      <UniqueIdentifier>{9b725b76-e2cb-45c8-b59f-90f0f0864177}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\MiniDump">
+      <UniqueIdentifier>{edc4936b-b1b4-4e4f-b48c-8c402ebc5124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\AI">
+      <UniqueIdentifier>{d45a9542-ceb7-4e5d-8b11-12a62f1e551d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\AI">
+      <UniqueIdentifier>{8fc74842-0c7a-4eb1-907d-80f17730587a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Common">
+      <UniqueIdentifier>{74462718-5a4a-43c8-a2e0-c4f3cede9471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\CUDA">
+      <UniqueIdentifier>{55a2ca59-2288-4b48-9ba9-af90e623e465}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NetEngine.h">
+      <Filter>헤더 파일\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="protocol.h">
+      <Filter>헤더 파일\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientNetEngine.h">
+      <Filter>헤더 파일\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="WorkerThreads.h">
+      <Filter>헤더 파일\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="SessionManager.h">
+      <Filter>헤더 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientSession.h">
+      <Filter>헤더 파일\Session</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.h">
+      <Filter>헤더 파일\Utility\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryPool.h">
+      <Filter>헤더 파일\Utility\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="CriticalSection.h">
+      <Filter>헤더 파일\Utility\Lock</Filter>
+    </ClInclude>
+    <ClInclude Include="SpinLock.h">
+      <Filter>헤더 파일\Utility\Lock</Filter>
+    </ClInclude>
+    <ClInclude Include="SRWLock.h">
+      <Filter>헤더 파일\Utility\Lock</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketManager.h">
+      <Filter>헤더 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>헤더 파일\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="type.h">
+      <Filter>헤더 파일\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="SendMemoryPool.h">
+      <Filter>헤더 파일\Utility\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerThread.h">
+      <Filter>헤더 파일\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="HeartBeatThread.h">
+      <Filter>헤더 파일\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="Sector.h">
+      <Filter>헤더 파일\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>헤더 파일\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldManager.h">
+      <Filter>헤더 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="RingBuffer.h">
+      <Filter>헤더 파일\Utility\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniDump.h">
+      <Filter>헤더 파일\Utility\MiniDump</Filter>
+    </ClInclude>
+    <ClInclude Include="simulationTest.h">
+      <Filter>헤더 파일\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="AcceptThread.h">
+      <Filter>헤더 파일\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>헤더 파일\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>헤더 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMachine.h">
+      <Filter>헤더 파일\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>헤더 파일\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>헤더 파일\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="CSingleton.h">
+      <Filter>헤더 파일\Utility\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="cuda_function.cu">
+      <Filter>헤더 파일\CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="cuda_function.cuh">
+      <Filter>헤더 파일\CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NetEngine.cpp">
+      <Filter>소스 파일\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Guardians_Server.cpp">
+      <Filter>소스 파일\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientNetEngine.cpp">
+      <Filter>소스 파일\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="WorkerThreads.cpp">
+      <Filter>소스 파일\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="SessionManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>소스 파일\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="TimerThread.cpp">
+      <Filter>소스 파일\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="HeartBeatThread.cpp">
+      <Filter>소스 파일\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientSession.cpp">
+      <Filter>소스 파일\Session</Filter>
+    </ClCompile>
+    <ClCompile Include="Sector.cpp">
+      <Filter>소스 파일\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>소스 파일\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="RingBuffer.cpp">
+      <Filter>소스 파일\Utility\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="SendMemoryPool.cpp">
+      <Filter>소스 파일\Utility\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniDump.cpp">
+      <Filter>소스 파일\Utility\MiniDump</Filter>
+    </ClCompile>
+    <ClCompile Include="AcceptThread.cpp">
+      <Filter>소스 파일\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>소스 파일\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="StateMachine.cpp">
+      <Filter>소스 파일\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>소스 파일\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>소스 파일\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Guardians_Server.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
